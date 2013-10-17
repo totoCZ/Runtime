@@ -1,4 +1,2 @@
-Runtime
-=======
-
-TCP, HTTP and ping uptime monitoring. With charts! For websites and servers serving services.
+[Wiki page](https://github.com/TomHetmer/Runtime/wiki)
+===
