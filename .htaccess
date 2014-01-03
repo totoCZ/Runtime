@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule (cs|en|api)/(.*) /index.php?page=$2&locale=$1 [L,QSA]

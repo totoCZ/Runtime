@@ -27,7 +27,7 @@ $directory = dirname(__FILE__) . '/locale';
 $domain    = 'messages';
 
 putenv("LANG=" . $lang);
-setlocale(LC_MESSAGES, $lang);
+setlocale(LC_ALL, $lang);
 bindtextdomain($domain, $directory);
 textdomain($domain);
 bind_textdomain_codeset($domain, 'UTF-8');
