@@ -1,5 +1,5 @@
 <?php
-// hetmer.tom@gmail.com 2013
+// tom|hetmer|net 2013
 
 // NETTE
 require './lib/nette.min.php';
