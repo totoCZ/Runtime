@@ -1,5 +1,5 @@
 <?php
-// tom|hetmer|net 2013
+// tom|hetmer|cz 2013
 
 // NETTE
 require './lib/nette.min.php';
