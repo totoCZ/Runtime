@@ -1,4 +1,4 @@
-[Runtime v1](https://github.com/TomHetmer/Runtime/wiki)
+[Runtime v1](https://github.com/TomHetmer/Runtime/wiki) [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 ===
 
 ## Features
